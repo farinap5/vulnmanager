@@ -1,5 +1,5 @@
 
-#Vulnerabilities Manager
+# Vulnerabilities Manager
 python3 and SQLite
 
 ```
