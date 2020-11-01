@@ -2,8 +2,7 @@
 #Vulnerabilities Manager
 python3 and SQLite
 
-
-´´´
+```
 ---Vulnerability Manager---
     For Web Application
  Type "help" for help menu
@@ -30,4 +29,4 @@ Web Site:    example.com
 Vuln:        rce
 URL:         http://example.com/rce.html
 Description: remote code executation
-´´´
+```
