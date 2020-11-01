@@ -1,6 +1,7 @@
 
-# Vulnerabilities Manager
-python3 and SQLite
+<h1 align="center">Vulnerabilities Manager</h1>
+<h3 align="center">python3 and SQLite</h3>
+
 
 ```
 ---Vulnerability Manager---
