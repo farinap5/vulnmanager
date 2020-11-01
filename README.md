@@ -1,6 +1,6 @@
 
 <h1 align="center">Vulnerabilities Manager</h1>
-<h3 align="center">python3 and SQLite</h3>
+<h3 align="center">python3 and SQLite3</h3>
 
 
 ```
